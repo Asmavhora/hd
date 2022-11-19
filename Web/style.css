@@ -1,0 +1,27 @@
+body{
+background-color: #FFE;
+}
+
+h1{
+  color: red;
+  text-align: center;
+  font-size: 50px;
+}
+h3{
+  color:purple;
+}
+.guj{
+  text-align: center;
+  color: blue;
+}
+.Mum{
+  text-align: left;
+  color: green;
+}
+.Hyd{
+  text-align: right;
+  color: Purple;
+}
+p{
+  color: blue;
+}
